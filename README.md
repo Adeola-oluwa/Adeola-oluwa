@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adeola-oluwa
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning javascript and React
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me ...
 - 😄 Pronouns: She/her
