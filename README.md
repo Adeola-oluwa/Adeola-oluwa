@@ -1,5 +1,5 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://dribbble.com/shots/4116964-Personal-Portfolio-Site)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://cdn.dribbble.com/users/1439515/screenshots/4116964/media/c2e533cedaeec9c73b3d6ce3145a61a3.gif)
 <h1 align="center">Hi 👋, I'm Adeola Folagboye</h1>
 
 <h3 align="center">A passionate frontend web developer from Nigeria</h3>
