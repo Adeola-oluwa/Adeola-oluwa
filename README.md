@@ -1,9 +1,9 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://cdn.dribbble.com/users/1439515/screenshots/4116964/media/c2e533cedaeec9c73b3d6ce3145a61a3.gif)
+[![MasterHead](https://cdn.dribbble.com/users/1439515/screenshots/4116964/media/c2e533cedaeec9c73b3d6ce3145a61a3.gif)](https://cdn.dribbble.com/users/1439515/screenshots/4116964/media/c2e533cedaeec9c73b3d6ce3145a61a3.gif)
 <h1 align="center">Hi 👋, I'm Adeola Folagboye</h1>
 
 <h3 align="center">A passionate frontend web developer from Nigeria</h3>
-<img align='right' alt='coding' width='400' src='https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub'/>
+<img align='right' alt='coding' width='400' src='https://cdn.dribbble.com/users/1439515/screenshots/4116964/media/c2e533cedaeec9c73b3d6ce3145a61a3.gif'/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adeola-oluwa&label=Profile%20views&color=0e75b6&style=flat" alt="adeola-oluwa" /> </p>
 
